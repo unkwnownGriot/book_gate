@@ -1,0 +1,28 @@
+.findbook-container{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.findbook-container > input{
+        width: 234px;
+        height: 24px;
+        border: none;
+        outline: none;
+       background-color: #edf3f4;
+       font-size: 15px;
+       padding: 5px 10px;
+       border-radius: 4px;
+}
+
+.findbook-container > button{
+    background-color: #2f2b35;
+    border: none;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    color: #fff;
+    padding: 10px 15px ;
+    border-radius: 20px;
+}

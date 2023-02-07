@@ -1,0 +1,99 @@
+{
+    "authors": [
+        {
+            "name": "Agatha Christie",
+            "summary": "Dame Agatha Mary Clarissa Christie, Lady Mallowan, DBE (n\u00e9e Miller; 15\u00a0September 1890\u00a0\u2013 12\u00a0January 1976) was an English writer known for her 66 detective novels and 14 short story collections, particularly those revolving around fictional detectives Hercule Poirot and Miss Marple. She also wrote the world's longest-running play, the murder mystery The Mousetrap, which has been performed in the West End since 1952. A writer during the \"Golden Age of Detective Fiction\", Christie has been called the \"Queen of Crime\". She also wrote six novels under the pseudonym Mary Westmacott. In 1971, she was made a Dame (DBE) by Queen Elizabeth II for her contributions to literature. Guinness World Records lists Christie as the best-selling fiction writer of all time, her novels having sold more than two billion copies.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Agatha_Christie.png/220px-Agatha_Christie.png"
+        },
+        {
+            "name": "William Shakespeare",
+            "summary": "William Shakespeare (bapt. 26 April[b] 1564 \u2013 23 April 1616)[c] was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2][3][4] He is often called England's national poet and the \"Bard of Avon\" (or simply \"the Bard\").[5][d] His extant works, including collaborations, consist of some 39 plays,[e] 154 sonnets, three long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright.[7] He remains arguably the most influential writer in the English language, and his works continue to be studied and reinterpreted.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/220px-Shakespeare.jpg"
+        },
+        {
+            "name": "Barbara Cartland",
+            "summary": "Dame Mary Barbara Hamilton Cartland, DBE, DStJ (9 July 1901 \u2013 21 May 2000) was an English writer, known as the Queen of Romance, who published both contemporary and historical romance novels, the latter set primarily during the Victorian or Edwardian period. Cartland is one of the best-selling authors worldwide of the 20th century.  \n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dame_Barbara_Cartland_Allan_Warren.jpg/220px-Dame_Barbara_Cartland_Allan_Warren.jpg"
+        },
+        {
+            "name": "Danielle Steel",
+            "summary": "Danielle Fernandes Dominique Schuelein-Steel (born August 14, 1947) is an American writer, best known for her romance novels. She is the bestselling living author and the fourth-bestselling fiction author of all time, with over 800\u00a0million copies sold.[2] As of 2021, she has written 190 books, including over 140[3] novels.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Danielle_steel_signature.svg/150px-Danielle_steel_signature.svg.png"
+        },
+        {
+            "name": "Harold Robbins",
+            "summary": "Harold Robbins (May 21, 1916 \u2013 October 14, 1997) was an American author of popular novels. One of the best-selling writers of all time, he wrote over 25 best-sellers, selling over 750 million copies in 32 languages.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Harold_Robbins_%281979%29.jpg/220px-Harold_Robbins_%281979%29.jpg"
+        },
+        {
+            "name": "Georges Simenon",
+            "summary": "Georges Joseph Christian Simenon (French:\u00a0[\u0292\u0254\u0281\u0292 simn\u0254\u0303]; 12/13 February 1903 \u2013 4 September 1989) was a Belgian writer. He published nearly 500 novels and numerous short works, and was the creator of the fictional detective Jules Maigret.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/2/2d/Georges_Simenon_%281963%29_without_hat_by_Erling_Mandelmann.jpg"
+        },
+        {
+            "name": "Enid Blyton",
+            "summary": "Enid Mary Blyton (11 August 1897\u00a0\u2013 28 November 1968) was an English children's writer, whose books have been worldwide bestsellers since the 1930s, selling more than 600 million copies. Her books are still enormously popular and have been translated into 90 languages. As of June 2019, Blyton held 4th place for the most translated author. She wrote on a wide range of topics, including education, natural history, fantasy, mystery, and biblical narratives. She is best remembered today for her Noddy, Famous Five, Secret Seven, the Five Find-Outers, and Malory Towers books, although she also wrote many others including the St Clare's, The Naughtiest Girl and The Faraway Tree series.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/en/thumb/a/a3/Enid_Blyton_2.jpg/220px-Enid_Blyton_2.jpg"
+        },
+        {
+            "name": "Sidney Sheldon",
+            "summary": "Sidney Sheldon (February 11, 1917 \u2013 January 30, 2007) was an American writer. He was prominent in the 1930s, first working on Broadway plays, and then in motion pictures, notably writing the successful comedy The Bachelor and the Bobby-Soxer (1947), which earned him an Oscar in 1948.[1] He went on to work in television, where over 20-years he created The Patty Duke Show (1963\u201366), I Dream of Jeannie (1965\u201370), and Hart to Hart (1979\u201384).[2] After turning 50, he began writing best-selling romantic suspense novels, such as Master of the Game (1982), The Other Side of Midnight (1973), and Rage of Angels (1980). \n",
+            "image_url": "//upload.wikimedia.org/wikipedia/en/f/f6/Sidney_Sheldon.jpg"
+        },
+        {
+            "name": "Eiichiro Oda",
+            "summary": "Eiichiro Oda (Japanese: \u5c3e\u7530 \u6804\u4e00\u90ce, Hepburn: Oda Eiichir\u014d, born January 1, 1975) is a Japanese manga artist and the creator of the series One Piece (1997\u2013present). With more than 516.6\u00a0million tank\u014dbon copies in circulation worldwide, One Piece is both the best-selling manga in history and the best-selling comic series printed in volume, in turn making Oda one of the best-selling fiction authors.[2] The series' popularity resulted in Oda being named one of the manga artists that changed the history of manga.[3]\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eiichiro_Oda_sign.svg/150px-Eiichiro_Oda_sign.svg.png"
+        },
+        {
+            "name": "J. K. Rowling",
+            "summary": "Joanne Rowling CH OBE FRSL (/\u02c8ro\u028al\u026a\u014b/ \"rolling\";[1] born 31 July 1965), also known by her pen name J.\u00a0K. Rowling, is a British author, philanthropist, producer, and screenwriter. She wrote Harry Potter, a seven-volume children's fantasy series published from 1997 to 2007. The series has sold over 500\u00a0million copies, been translated into at least 70\u00a0languages, and spawned a global media franchise including films and video games. The Casual Vacancy (2012) was her first novel for adults. She writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/220px-J._K._Rowling_2010.jpg"
+        },
+        {
+            "name": "Gilbert Patten",
+            "summary": "Gilbert Patten was born in Corinna, Maine in 1866. His father, a carpenter, and his mother were deeply religious pacifists. They were Seventh Day Adventists.[1] He entered Corinna Union Academy at fourteen, but when his father threatened that he would be put to work if he did not improve at school, Patten ran away to Biddeford, Maine where he worked in a machine shop. When he returned home and told his father that he would become an author, he was given thirty days to prove himself. He sold his first two stories in this period to the dime novel company of Erastus Flavel Beadle, and combined his resumed studies for the next four years with writing and publishing stories. When he was twenty, he married Alice Gardner, and in 1892 their son Harvan Barr Patten was born. They later divorced and Gilbert Patten would marry twice more.[2]\n",
+            "image_url": ""
+        },
+        {
+            "name": "Dr. Seuss",
+            "summary": "Theodor Seuss Geisel (/su\u02d0s \u02c8\u0261a\u026az\u0259l, z\u0254\u026as -/ (listen);[2][3][4] March 2, 1904 \u2013 September 24, 1991)[5] was an American children's author and cartoonist. He is known for his work writing and illustrating more than 60 books under the pen name Dr. Seuss (/su\u02d0s, zu\u02d0s/).[4][6] His work includes many of the most popular children's books of all time, selling over 600 million copies and being translated into more than 20 languages by the time of his death.[7]\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg/220px-Theodor_Seuss_Geisel_%2801037v%29.jpg"
+        },
+        {
+            "name": "Akira Toriyama",
+            "summary": "Akira Toriyama (Japanese: \u9ce5\u5c71 \u660e, Hepburn: Toriyama Akira, born April 5, 1955) is a Japanese manga artist and character designer. He first achieved mainstream recognition for his highly successful manga series Dr. Slump, before going on to create Dragon Ball (his best-known work) and acting as a character designer for several popular video games such as the Dragon Quest series, Chrono Trigger, and Blue Dragon. Toriyama is regarded as one of the authors who changed the history of manga, as his works are highly influential and popular, particularly Dragon Ball, which many manga artists cite as a source of inspiration.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/f/f7/Akira_Toriyama_%28cropped%29.jpg"
+        },
+        {
+            "name": "Leo Tolstoy",
+            "summary": "Count Lev Nikolayevich Tolstoy[note 1] (/\u02c8to\u028alst\u0254\u026a, \u02c8t\u0252l-/;[2] Russian: \u041b\u0435\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 \u0422\u043e\u043b\u0441\u0442\u043e\u0439,[note 2] IPA:\u00a0[\u02c8l\u02b2ef n\u02b2\u026ak\u0250\u02c8la(j)\u026av\u02b2\u026at\u0255 t\u0250l\u02c8stoj] (listen); 9 September\u00a0[O.S. 28 August]\u00a01828\u00a0\u2013  20 November\u00a0[O.S. 7 November]\u00a01910), usually referred to in English as Leo Tolstoy, was a Russian writer who is regarded as one of the greatest authors of all time.[3] He received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909; the fact that he never won is a major controversy.[4][5][6][7]\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/220px-L.N.Tolstoy_Prokudin-Gorsky.jpg"
+        },
+        {
+            "name": "Cor\u00edn Tellado",
+            "summary": "Her novels were different from other contemporary Western European romantic writers' works because she usually set them in the present and didn't use eroticism, due to the Spanish regime's strict censorship.[1] Her style was direct and her characters were simply presented. These novels have inspired several telenovelas.[2]\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/a/a3/Corin_Tellado_cropped2.jpg"
+        },
+        {
+            "name": "Dean Koontz",
+            "summary": "Koontz was born on July 9, 1945, in Everett, Pennsylvania, the son of Florence (n\u00e9e Logue) and Raymond Koontz.[3][4]  He has said that he was regularly beaten and abused by his alcoholic father, which influenced his later writing, as also did the courage of his physically diminutive mother in standing up to her husband.[5]  In his senior year at Shippensburg State College, he won a fiction competition sponsored by Atlantic Monthly magazine.[6] After graduation in 1967, he went to work as an English teacher at Mechanicsburg High School in Mechanicsburg, Pennsylvania.[3] In the 1960s, Koontz worked for the Appalachian Poverty Program, a federally funded initiative designed to help poor children.[7] In a 1996 interview with Reason magazine, he said that while the program sounded \"very noble and wonderful, ...\u00a0[i]n reality, it was a dumping ground for violent children\u00a0... and most of the funding ended up 'disappearing somewhere.'\"[7] This experience greatly shaped Koontz's political outlook. In his book, The Dean Koontz Companion, he recalled that he\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+        },
+        {
+            "name": "Jackie Collins",
+            "summary": "Jacqueline Jill Collins OBE (4 October 1937 \u2013 19 September 2015) was an English romance novelist and actress. She moved to Los Angeles in 1985 and spent most of her career there.[1] She wrote 32 novels, all of which appeared on The New York Times bestsellers list.[2] Her books have sold more than 500 million copies and have been translated into 40 languages.[3][4] Eight of her novels have been adapted for the screen, either as films or television miniseries. She was the younger sister of Dame Joan Collins.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jackie_Collins_-_The_Power_Trip_cropped.jpg/225px-Jackie_Collins_-_The_Power_Trip_cropped.jpg"
+        },
+        {
+            "name": "Horatio Alger",
+            "summary": "Horatio Alger Jr. (/\u02c8\u00e6ld\u0292\u0259r/; January 13, 1832 \u2013 July 18, 1899) was an American author who wrote young adult novels about impoverished boys and their rise from humble backgrounds to lives of middle-class security and comfort through good works. His writings were characterized by the \"rags-to-riches\" narrative, which had a formative effect on the United States during the Gilded Age.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Horatio_Alger_Jr.jpg/220px-Horatio_Alger_Jr.jpg"
+        },
+        {
+            "name": "Nora Roberts",
+            "summary": "Nora Roberts (born Eleanor Marie Robertson on October 10, 1950) is an American author of more than 225 romance novels.[1] She writes as J. D. Robb for the in Death series and has also written under the pseudonyms Jill March and for publications in the U.K. as Sarah Hardesty.\n",
+            "image_url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NoraRoberts.jpg/220px-NoraRoberts.jpg"
+        }
+    ]
+}

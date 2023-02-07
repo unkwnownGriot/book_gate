@@ -1,0 +1,16 @@
+.cart-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cross-sells{
+    background-color: #edf3f4;
+}
+.related-books{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shipping-totals{
+    background-color: #fff
+}

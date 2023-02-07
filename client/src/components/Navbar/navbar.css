@@ -1,0 +1,45 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    background-color: black;
+}
+
+.logo{
+    padding: 0px 15px;
+}
+
+nav{
+    width: 80%;
+}
+
+.navbar-list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.navbar-item > a{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+
+.badge-amount{
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #777;
+    border-radius: 10px;
+}

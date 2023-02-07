@@ -1,0 +1,20 @@
+.page-title{
+    background-color: #515570;
+    background-position: center;
+    text-align: center;
+    padding: 65px 0px;
+    color: #fff;
+}
+
+.page-title > h2{
+    font-size: 59px;
+    font-weight: normal;
+    line-height: 20px;
+}
+.page-title > a{
+    text-decoration:none ;
+    color: inherit;
+    font-style: italic;
+    font-size: 17px;
+    font-weight: normal;
+}

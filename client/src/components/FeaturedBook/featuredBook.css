@@ -1,0 +1,56 @@
+.wrapper{
+    padding: 45px 0px;
+}
+
+.text-part > span{
+    color: #a7a7a7;
+    font-size: 20px;
+    line-height: 1.73em;
+}
+.book-info > h2{
+    color: #222222;
+    font-size: 27px;
+    line-height: 30px;
+}
+.book-info > span{
+    color: #a7a7a7;
+    font-size: 15px;
+    font-style: italic;
+}
+.text-part > p{
+    line-height: 1.78em;
+    font-weight: normal;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first{
+    width: 400px;
+}
+.text-part > button{
+    background-color: #2f2b35;
+    border: none;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    color: #fff;
+    padding: 10px 15px ;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
+
+.text-part > button:hover{
+    background-color: #4e4b53;
+}
+
+.second{
+    width: 300px;
+}
+.second > img{
+    width: 100%;
+}
+
