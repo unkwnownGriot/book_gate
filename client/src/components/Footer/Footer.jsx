@@ -32,13 +32,13 @@ function Footer() {
     <footer className='site-footer'>
         <div className="footer-container">
             <ul className="footer-list">
-                <li><a href="#nav" className='smooth-scroll'>Home</a></li>
+                <li><a id='link' href="#nav" className='smooth-scroll'>Home</a></li>
                 <li><a href="#nav" className='smooth-scroll'>Blog</a></li>
-                <li><a href="">Twitter</a></li>
-                <li><a href="">Linkedin</a></li>
+                <li><a href="https://twitter.com/elsamatchole" target={'_blank'}>Twitter</a></li>
+                <li><a href="https://www.linkedin.com/in/elsam-atchole-71890222b/" target={'_blank'}>Linkedin</a></li>
             </ul>
             <div className="footer-credit">
-              <p>Copyright © Bookie 2023</p>
+              <p>Copyright © Book gate 2023</p>
             </div>
         </div>
     </footer>

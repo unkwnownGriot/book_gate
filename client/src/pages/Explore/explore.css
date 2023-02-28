@@ -1,5 +1,5 @@
 .explore-wrapper{
-    padding: 60px;
+    /* padding: 60px; */
     background-color: #edf3f4;
 }
 
@@ -14,7 +14,8 @@
 }
 .paginate-container{
     display: flex;
-    width: 80%;
+    /* width: 100%; */
+    flex-wrap: wrap;
 }
 
 .page-num{
