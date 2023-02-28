@@ -8,7 +8,6 @@ def error_response(code_status,message=None):
         payload['message'] = message
     response = jsonify(payload)
     response.status_code = code_status
-    print(response)
     return response
 
 

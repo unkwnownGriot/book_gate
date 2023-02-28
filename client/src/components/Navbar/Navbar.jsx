@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import './navbar.css'
 function Navbar({color}) {
   return (
@@ -8,15 +9,16 @@ function Navbar({color}) {
         </div>
         <nav>
           <ul className='navbar-list'>
-            <li className='navbar-item'><a href="#">Home</a></li>
-            <li className='navbar-item'><a href="#">Bookstore</a></li>
-            <li className='navbar-item'><a href="#">Blog</a></li>
-            <li className='navbar-item'><a href="#">Contact</a></li>
-            <li className='navbar-item'><a href="#">
-              <i className='fa fa-shopping-basket' >
-              <span className='badge-amount'>3</span>
-            </i></a>
-            </li>
+            <Link to={'/'} className='link-nav'><li>Home</li></Link> 
+            <Link to={'/explore'} className='link-nav'><li>Bookstore</li></Link> 
+            <Link  className='link-nav'><li>Contact</li></Link> 
+            <li className='navbar-item'><a href="https://medium.com/@elsamatchole" target='_blank'>Blog</a></li>
+            <Link className='link-nav' to={'/cart'}>
+              <li>
+                <i className='fa fa-shopping-basket' ><span className='badge-amount'>3</span></i>
+              </li>
+            </Link> 
+            
           </ul>
         </nav>
       </div>

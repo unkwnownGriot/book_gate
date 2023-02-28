@@ -1,12 +1,12 @@
 import React from 'react'
 import './tableBook.css'
-function TableBook() {
+function TableBook({book}) {
   return (
     <table>
         <tbody>
             <tr>
                 <td className='td-title'>Pages</td>
-                <td><p>416</p></td>
+                <td><p>{book?.number_pages}</p></td>
             </tr>
             <tr>
                 <td className='td-title'>Publisher</td>
@@ -14,15 +14,15 @@ function TableBook() {
             </tr>
             <tr>
                 <td className='td-title'>Language</td>
-                <td><p>French</p></td>
+                <td><p>{book?.language}</p></td>
             </tr>
             <tr>
                 <td className='td-title'>ISBN</td>
-                <td><p>2010009274</p></td>
+                <td><p>{book?.book_isbn}</p></td>
             </tr>
             <tr>
                 <td className='td-title'>Released</td>
-                <td><p>april 1975</p></td>
+                <td><p>{book?.date_parution}</p></td>
             </tr>
         </tbody>
     </table>

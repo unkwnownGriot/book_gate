@@ -5,7 +5,10 @@
 
 .cross-sells{
     background-color: #edf3f4;
+    width: 55%;
+    margin-right: 30px;
 }
+
 .related-books{
     display: flex;
     flex-wrap: wrap;
@@ -13,4 +16,7 @@
 
 .shipping-totals{
     background-color: #fff
+}
+.cart-total-shipping{
+    width: 45%;
 }

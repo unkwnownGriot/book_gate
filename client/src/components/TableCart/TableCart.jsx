@@ -37,6 +37,7 @@ function TableCart() {
                          <span className='price-amount'>$ 4.89</span>
                     </td>
                 </tr>
+
                
             </tbody>
         </table>

@@ -10,7 +10,7 @@ function Cart() {
         <Navbar color={true}/>
         <section className='page-title'>
                 <h2>Cart</h2>
-                <a href="">Home /</a> Le crime de l'orient express
+                <a href="">Home /</a> Cart
       </section>
       <div className="cart-wrapper">
         <div className="cart-content">

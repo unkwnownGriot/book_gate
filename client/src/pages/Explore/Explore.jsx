@@ -4,7 +4,7 @@ import BookCard from '../../components/BookCard/BookCard'
 import FindBook from '../../components/FindBook/FindBook'
 import Navbar from '../../components/Navbar/Navbar'
 import Footer from '../../components/Footer/Footer'
-
+import { Link } from 'react-router-dom'
 import './explore.css'
 
 function Explore() {
@@ -27,11 +27,13 @@ function Explore() {
   
   // console.log(links)
 
-  const refetchPosts = async (link)=>{
-      const res = await axios.get(`http://localhost:5000/${link}`)
+  const refetchPosts = async (url)=>{
+      const res = await axios.get(`http://localhost:5000/${url}`)
       setItems(res.data.items)
       setLinks(res.data._links)
   }
+
+
 
 
   return (
@@ -39,15 +41,15 @@ function Explore() {
       <Navbar color={true}/>
       <section className='page-title'>
                 <h2>Explore</h2>
-                <a href="">Home /</a> Le crime de l'orient express
+                <Link href="">Home /</Link> Explore
       </section>
       <FindBook/>
       <div className='explore-wrapper'>
         <div className='explore-container'>
         <div className='paginate-container'>
         {
-        items? items.map(el=>(
-          <BookCard key={el.id} title={el.title} />
+        items? items.map(book=>(
+          <BookCard key={book.id} book={book} />
         )) : 'Loading'
       }
     </div>
