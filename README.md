@@ -1,7 +1,21 @@
 # Book Gate
+Book Gate is a **fullstack web application** built with **Flask** (backend) and **React** (frontend) for managing a personal library.  
+It allows users to browse, list, and filter books through a simple and responsive interface.
+You can follow the tutorials here :  [big flask tutorial](https://medium.com/@elsamatchole)
 
- A full-stack Flask-React application for managing a personal library.
-This is the repo of my [big flask tutorial](https://medium.com/@elsamatchole)
+## 🚀 Features
+- List books with details
+- Filter/search functionality
+- Flask REST API backend
+- React frontend connected to the API
+- Utility scripts for scraping author data and populating the database
+- Basic backend tests with Python
+
+## 🛠️ Tech Stack
+- **Frontend:** React (Vite, Hooks, functional components)  
+- **Backend:** Flask (REST API, SQLite)  
+- **Languages:** JavaScript, Python  
+- **Others:** npm, pip  
 
 ## Installation
 - Clone the repository to your local machine:
